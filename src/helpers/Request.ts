@@ -1,4 +1,4 @@
-import axios, { AxiosInstance, AxiosPromise, AxiosRequestConfig, AxiosResponse } from 'axios';
+import axios, { AxiosInstance, AxiosPromise, AxiosRequestConfig } from 'axios';
 
 export class Request {
     private instance: AxiosInstance;
